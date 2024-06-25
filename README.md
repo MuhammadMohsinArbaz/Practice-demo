@@ -1,4 +1,4 @@
 # Practice-demo
 This is my first Git Repository
 <br>
-Author -M.M.A
+Author -Muhammad Mohsin Arbaz(M.M.A)
